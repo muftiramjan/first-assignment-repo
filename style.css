@@ -4,7 +4,7 @@
 }
 
 .wrap-header {
-    background-image: url('Banner Image.png');
+    background-image: url('images/Banner\ Image.png');
     width: 1320px;
     height: 600px;
     background-repeat: no-repeat;
@@ -69,7 +69,7 @@
 }
 
 .thard-wrap {
-    background-image: url('Vectorrr.png');
+    background-image: url('images/Vectorrr.png');
     width: 1320px;
     height: 600px;
     background-repeat: no-repeat;
@@ -256,7 +256,7 @@ button {
 }
 
 .img-centaenetr {
-    background-image: url('Rectangle 1.png'), url('Rectangle 2.png');
+    background-image: url('images/Rectangle\ 1.png'), url('images/Rectangle\ 2.png');
     background-position: bottom 100px;
     background-repeat: no-repeat;
     background-position: right;
